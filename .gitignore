@@ -1,0 +1,12 @@
+# Ignore everything by default.
+*
+
+# Keep the ignore rules themselves.
+!/.gitignore
+
+# Keep notebooks at the repository root.
+!/*.ipynb
+
+# Keep notebook assets.
+!/assets/
+!/assets/**
