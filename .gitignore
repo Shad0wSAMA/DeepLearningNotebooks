@@ -3,9 +3,7 @@
 
 # Keep the ignore rules themselves.
 !/.gitignore
-!submission/
 !check_submission.py
-
 
 # Keep notebooks at the repository root.
 !/*.ipynb
@@ -13,3 +11,8 @@
 # Keep notebook assets.
 !/assets/
 !/assets/**
+
+!/submission/
+!/submission/**
+!/Filled/
+!/Filled/**

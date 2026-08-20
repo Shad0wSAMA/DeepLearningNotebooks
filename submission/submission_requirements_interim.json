@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "stage": "interim",
+  "cid_placeholder": "{CID}",
+  "submission_layout": "All entries are relative to the submission folder and are expected to be files in the folder root.",
+  "sources": [
+    "02_CNN_Introduction_edit.ipynb",
+    "03_Network_Training.ipynb"
+  ],
+  "notes": [
+    "Repeated references to the same filename count as one required artifact."
+  ],
+  "requirements": [
+    {"path": "{CID}_E2_T1_Small_Model_Architecture.jpg", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T1_Small_Model_Learning_Curve.jpg", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T1_Large_Model_Architecture.jpg", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T1_Large_Model_Learning_Curve.jpg", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T1_Architecture_Discussion.txt", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T2_Architecture.jpg", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T2_Learning_Curve.jpg", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T2_Age_Group_MAE.jpg", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T2_Architecture_and_Age_Group_Discussion.txt", "type": "file", "source": "02"},
+    {"path": "{CID}_E3_T1_Augmentation_Comparison.png", "type": "file", "source": "03"},
+    {"path": "{CID}_E3_T1_Regularization_Comparison.png", "type": "file", "source": "03"},
+    {"path": "{CID}_E3_T1_Zero_Initialization.png", "type": "file", "source": "03"},
+    {"path": "{CID}_E3_T1_Optimizer.png", "type": "file", "source": "03"}
+  ]
+}
