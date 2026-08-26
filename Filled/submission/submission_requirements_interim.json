@@ -11,14 +11,14 @@
     "Repeated references to the same filename count as one required artifact."
   ],
   "requirements": [
-    {"path": "{CID}_E2_T1_Small_Model_Architecture.jpg", "type": "file", "source": "02"},
-    {"path": "{CID}_E2_T1_Small_Model_Learning_Curve.jpg", "type": "file", "source": "02"},
-    {"path": "{CID}_E2_T1_Large_Model_Architecture.jpg", "type": "file", "source": "02"},
-    {"path": "{CID}_E2_T1_Large_Model_Learning_Curve.jpg", "type": "file", "source": "02"},
-    {"path": "{CID}_E2_T1_Architecture_Discussion.txt", "type": "file", "source": "02"},
-    {"path": "{CID}_E2_T2_Architecture.jpg", "type": "file", "source": "02"},
-    {"path": "{CID}_E2_T2_Learning_Curve.jpg", "type": "file", "source": "02"},
-    {"path": "{CID}_E2_T2_Age_Group_MAE.jpg", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T1_Small_Model_Architecture.png", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T1_Small_Model_Learning_Curve.png", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T1_Large_Model_Architecture.png", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T1_Large_Model_Learning_Curve.png", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T1_Implementation.txt", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T2_Model_Architecture.png", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T2_Learning_Curve.png", "type": "file", "source": "02"},
+    {"path": "{CID}_E2_T2_Age_Group_MAE.png", "type": "file", "source": "02"},
     {"path": "{CID}_E2_T2_Architecture_and_Age_Group_Discussion.txt", "type": "file", "source": "02"},
     {"path": "{CID}_E3_T1_Augmentation_Comparison.png", "type": "file", "source": "03"},
     {"path": "{CID}_E3_T1_Regularization_Comparison.png", "type": "file", "source": "03"},
@@ -26,3 +26,4 @@
     {"path": "{CID}_E3_T1_Optimizer.png", "type": "file", "source": "03"}
   ]
 }
+
