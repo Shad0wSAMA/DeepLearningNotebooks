@@ -14,7 +14,19 @@
 
 !/submission/
 !/submission/**
-!/Filled/
-!/Filled/**
+!/Filled/02_Convolutional_Neural_Networks.ipynb
+!/Filled/03_Transfer_Learning.ipynb
+!/Filled/04_Regularization.ipynb
+!/Filled/05_Optimization.ipynb
+!/Filled/06_Autoencoders.ipynb
+!/Filled/07_Generative_Models.ipynb
+!/Filled/08_Deep_Reinforcement_Learning.ipynb
+!/Filled/09_Deep_RL_Atari.ipynb
+!/Filled/submission/
+
 
 !faces.zip
+
+# Ignore data directories.
+/data/
+/Filled/data/
